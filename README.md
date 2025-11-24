@@ -1,4 +1,4 @@
-Affect-Emotion OS Framework
+##Affect-Emotion OS Framework
 
 A conceptual blueprint for an emotional operating system — derived from months of introspective reconstruction logs, philosophical mapping, and defense-mechanism analysis.
 
