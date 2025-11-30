@@ -210,6 +210,9 @@ They can be reviewed only under a mutual NDA with full confidentiality.
 ## 📬 Contact  
 For inquiries (NDA, collaboration, or research interest):
 
+This framework includes internal affective patterns and reconstruction logs that current AI systems fundamentally cannot generate or simulate. The unpublished kernel directly addresses several alignment bottlenecks that remain unresolved in LLM architectures.
+
+
 📧 Email: **csow508@naver.com**  
 (Author is a native Korean speaker; English assistance was provided by AI.)
 
