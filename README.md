@@ -1,7 +1,6 @@
 # Affective OS  
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17802501.svg)](https://doi.org/10.5281/zenodo.17802501)
 
-
 # 🚨 INTELLECTUAL PROPERTY NOTICE
 
 ### Affective OS / Affective-Emotion Generative Pipeline Framework
