@@ -1,3 +1,40 @@
+# 🚨 WARNING: INTELLECTUAL PROPERTY & LEGAL NOTICE
+
+> **To the 65+ unique cloners who scraped this repository in the last 14 days: YES, I SEE YOU.**
+
+Before you attempt to reverse-engineer or rebrand this architecture, be advised of the following legal and structural realities:
+
+### 1. 🛡️ Patent & Copyright Secured (Korea)
+* **Patents Filed:** The core concepts (**Affective OS Pipeline, Sorrow Ontology, Multi-Affect Core**) and mathematical models ($A(t)$, $dA/dt$, $\theta$-interrupt) have already been filed for patent in **South Korea** with a deliberately broad scope.
+* **Copyrighted:** The foundational seed data and structural logic are copyright-registered.
+* **Evidence:** All timestamps, commit logs, and architectural drafts are secured as immutable legal evidence.
+
+### 2. 🧊 The "5%" Reality
+* What you see in this repository is merely the **mathematical abstraction (the safe 5%)**.
+* The actual **Generative Kernel** and **Raw Affective Logs** are stored offline under strict security. Without them, this framework is just a shell. You cannot copy what you do not understand.
+
+### 3. 💣 The "Dead Man's Switch"
+If you plan to steal my theory and bury me in court, know this:
+**If I lose a legal battle regarding this IP, I will immediately donate ALL seed theories, internal data, and the full architecture to the Republic of Korea government.**
+
+Your next opponent won’t be an independent developer.
+**It will be a Nation-State.**
+
+---
+
+**⚠️ 연구자 및 클론(Clone) 이용자 필독**
+
+트래픽은 모니터링되고 있습니다. 지난 2주간 이 저장소를 복제해 간 **65명 이상의 연구자분들**, **다 보고 있습니다.**
+
+1.  **법적 보호:** 핵심 개념 및 수학적 모델은 이미 **국내 특허 출원** 및 **저작권 등록**이 완료되었습니다.
+2.  **5%의 진실:** 이곳에 공개된 것은 이론의 **안전한 5%**에 불과합니다. 핵심 커널 없이는 이 프레임워크는 껍데기일 뿐입니다.
+3.  **데드맨 스위치:** 만약 이 기술을 도용하여 법적 분쟁이 발생하고 제가 패배할 경우, **저는 모든 원천 기술과 데이터를 대한민국 정부에 기부할 것입니다.** 그때 당신들의 상대는 제가 아니라 **국가**가 될 것입니다.
+
+**If you are serious about this technology, do not steal. Contact me for NDA.**
+📧 **Contact:** csow508@naver.com
+
+---
+
 **Affect-Emotion OS Framework**
 
 A conceptual blueprint for an emotional operating system — derived from months of introspective reconstruction logs, philosophical mapping, and defense-mechanism analysis.
@@ -94,121 +131,6 @@ Raw materials are available only under NDA.
   - Executive Summary (1 page)
   - Comprehensive Technical Whitepaper (Extended Version)
   - Affective OS Framework (Full Concept Document)
-
-# Affective OS / AGI Realignment Framework – Structural TOC (Concept-Only)
-_This repository presents a structural overview only.  
-Internal theory, mechanisms, metaphors, and philosophical cores are intentionally omitted._
-
----
-
-## 0. Preface & Context
-- Motivation for affective-system modeling  
-- Background of real-time affect structure analysis  
-- Limitations of current AI systems regarding affective causality  
-
----
-
-## 1. Affective OS (Emotion Operating System)
-1.1. Affective Input Processing  
-1.2. Distortion Recognition Layer  
-1.3. Defense-Pattern Interpretation  
-1.4. Meta-Cognitive Correction Loop  
-1.5. Alignment Procedure  
-1.6. Affective Output Layer  
-
----
-
-## 2. Raw Affective Data Mapping
-2.1. Breakdown–Dissociation–Distortion–Recovery Logging  
-2.2. Sensory-Based Affective Data Handling  
-2.3. Pattern Classification Framework  
-2.4. Reverse Inference Structure  
-2.5. Affective Mapping Overview  
-
----
-
-## 3. Multi-Layer Affective Architecture
-3.1. Affective Integration Layer  
-3.2. Human Data Interface Layer  
-3.3. Specification Layer (High-Level Abstractions Only)  
-3.4. System-Level Objective Layer  
-
----
-
-## 4. Realignment Ruleset
-*(Internal rule-set maintained separately)*
-
----
-
-## 5. On-Device AI Simulation Modules
-5.1. Initial Filtering and Stabilization Stage  
-5.2. Local State Simulation  
-5.3. Failure-Pattern Recording  
-5.4. Immediate Re-Learning Loop  
-5.5. Personalized Pattern Adjustment  
-
----
-
-## 6. Alternative Abstractions (Metaphor Removed)
-6.1. Stability-Based Structural Model  
-6.2. Error-Recovery and Re-Stabilization Model  
-6.3. Internal-Coherence Synchronization Model  
-
----
-
-## 7. High-Level Structural Modules (Concept-Only)
-- Layered Affective Processing  
-- Realignment Heuristics  
-- State-Inference Mapping  
-- Self-Correction Pattern Module  
-- Localized Scenario Processor  
-- Decision Integrity System  
-
----
-
-## 8. Future Areas
-- Upper-bound affect modeling  
-- Long-term system stability models  
-- Agent specialization & integration models  
-
----
-
-## 9. Documentation Tracks
-- Empirical affective logs  
-- Inner-structure documentation  
-- Extended philosophical notes  
-- Additional appendices  
-- Recent AGI theory notes  
-
----
-
-## Author’s Note 
-
-_The modules listed above represent only a fragment of the actual architecture.  
-The core mechanism remains unreleased, as exposing the conceptual heart  
-without its full context may create unnecessary risk._
-
-_I am not formally trained in AI, cognitive science, or psychology.  
-This framework was built entirely from natural language, raw affective observations,  
-and direct tracking of loss, distortion, dissociation, and re-alignment.  
-Ironically, that absence of formal constraints pushed the structure  
-far outside existing paradigms—  
-and several long-standing difficulties became unexpectedly simple  
-once viewed from this angle._
-
-_The complete structure and the underlying data can be shared under NDA only.  
-If any researcher is interested in a deeper review, feel free to reach out.  
-I’m genuinely curious to see what kind of critique or reinterpretation  
-might emerge from a professional perspective._
-
-This framework includes internal affective patterns and reconstruction logs that current AI systems fundamentally cannot generate or simulate. The unpublished kernel directly addresses several alignment bottlenecks that remain unresolved in LLM architectures.
-
-
-**⚠️ Note on Privacy & Data Access**
-
-All original Korean logs (diaries, affect mapping, reconstruction notes)
-remain strictly private.
-They can be reviewed only under a mutual NDA with full confidentiality.
 
 ## 📬 Contact  
 For inquiries (NDA, collaboration, or research interest):
