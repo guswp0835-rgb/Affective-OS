@@ -1,6 +1,17 @@
 # Affective OS  
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17802501.svg)](https://doi.org/10.5281/zenodo.17802501)
 
+## 📢 Official Communication Channel
+
+All official updates regarding **Affective OS**, including research announcements, framework revisions, monitoring notices, and intellectual property enforcement, are published exclusively through the following channel:
+
+🔗 **Twitter (X):** [@affectOS](https://x.com/affectOS)
+
+> **Stay informed.**
+> If there is a critical update or legal notice, you will see it there first.
+
+---
+
 # 🚨 INTELLECTUAL PROPERTY NOTICE
 
 ### Affective OS / Affective-Emotion Generative Pipeline Framework
