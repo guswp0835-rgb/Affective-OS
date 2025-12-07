@@ -122,7 +122,7 @@ Proof of authorship is comprehensive and immutable:
 
 ## 5. 🧊 Public vs. Non-Public Material
 
-This repository contains only the **safe mathematical abstraction (≈5%)**:
+This repository contains only the **safe mathematical abstraction**:
 
 | **Included (Public)** | **Not Included (Restricted)** |
 | :--- | :--- |
