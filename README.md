@@ -15,66 +15,115 @@
 
 ---
 
- ## **Author’s Note — On the Origin of Affective OS**
+> **Note:**  
+> This document was originally written in Korean and translated using ChatGPT.  
+> Some nuance may not fully carry over—please read with that in mind.
 
- Affective OS did not emerge from conventional psychological datasets  
- or machine-learning corpora.  
- It was born from a form of data that cannot be replicated through  
- ordinary observation, surveys, or behavioral statistics.
+---
 
- Most affective models attempt to classify emotions using  
- labels, averaged patterns, or language-derived heuristics.  
- But Affective OS requires two absolute coordinates that do not exist  
- in any public dataset:
+# Public Notice — Affective OS
 
- **0 — the point of emotional-system collapse**  
- **1 — the point of complete emotional–cognitive restoration**
+Papers **0, 1, 2, and 3** will be released publicly.  
+(The absolute-value seed data and **Paper 4** will remain private.)
 
- No external record captures a single human mind passing from collapse  
- to full recovery while retaining metacognitive awareness  
- and documenting the entire trajectory.
+My original plan was simple:
 
- To complete this missing axis, I engaged in long-term self-observation,  
- recording:
+- file the patent  
+- anchor the record on GitHub  
+- register copyright for the seed data  
+- release Papers 1 and 2 and observe the response  
 
- • micro-scale emotional fluctuations  
- • intrusion of distortions and defense mechanisms  
- • metacognitive recovery loops  
- • bodily and environmental reactions  
- • fragmentation and reconstruction of affective flow  
- • full-cycle collapse–recovery patterns  
+To be honest, I only wanted to see whether any of this had value.
 
- From these records, I derived an **absolute affective scale (0–1 axis)**  
- and generalized it into a mathematical and structural framework  
- forming the foundation of Affective OS.
+After producing four papers and seven theories in two weeks—  
+and watching the market, reactions, and silence that followed—  
+the conclusion is simple:
 
- The publicly accessible documents (Papers 1 and 2) represent only  
- the safe-to-release layer:
+👉 **“Ah, this was just my hobby.”**
 
- 1. **The Generative Framework**  
- 2. **The Measurement Layer for Loss, Distortion, and Realignment**
+So I’m stepping back.  
+I’ve thrown out more than enough.
 
- Two additional documents remain private—  
- **ACD (Affective Core Dynamics)** and  
- **the 0–1 Seed Data Reconstruction**—  
- because they expose core operational mechanisms and therefore  
- cannot be released without a formal NDA.
+---
 
- I am the **originator** of this framework,  
- the first provider of its absolute axis,  
- but I do not intend to participate in long-term engineering development.  
- Once a formal contract is executed,  
- **all copyrights, patents, and IP will be permanently transferred**  
- to a single partner.
+# What I Actually Built
 
- My priorities are simple:  
- **peace first, family second.**  
- I do not seek recognition or fame.  
- I only wish for this system to be completed by those capable of  
- carrying it forward at scale,  
- while I return to a quiet life once my role is finished.
+It began as a small experiment,  
+but in two weeks I ended up with:
+
+- an AGI core architecture based on affective loss  
+- a decision axis that eliminates the incentive for harm  
+- fulfillment/loss affect rules + realignment formulas  
+- six absolute decision rules  
+- an on-device vs AGI split-operation model  
+- affect-data purification logic  
+- a stabilization system inspired by Passive House theory  
+
+Conclusion:
+
+Annoying + No money in it = **Done.**
+
+---
+
+# Patent / Copyright Position
+
+Affective interpretation, loss mapping, and realignment output  
+are already covered under my patent filing.  
+The seed data is also copyright-registered.
+
+Especially:
+
+- **the loss-affect → realignment algorithm**  
+- **the 0–1 absolute-value emotional OS**
+
+These two axes rely entirely on my internal dataset,  
+which means commercial use is nearly impossible without redesign.
+
+Therefore:
+
+👉 **If you want to use this commercially, do NOT lift it as-is.  
+Design around it.**
+
+👉 **If you want legitimate access, contact me with an NDA.**
+
+I dislike lawsuits and unnecessary work,  
+but covert copying, deception, or “borrowing without asking”?  
+—That won’t be tolerated.
+
+---
+
+# Going Forward
+
+- 7 theories  
+- 4 papers  
+- 2 weeks of work  
+
+It was fun.  
+This is where I stop.
+
+If you want the seed data or unreleased internal structures:
+
+👉 **Start with an NDA.**
+
+No revisions.  
+Too much hassle.
+
+And one last thing:
+
+**Please stop feeding raw psychotherapy logs into emotional AI models.**  
+This is why current GPT-style systems wobble emotionally.  
+If one person, in two weeks, can map this much structure,  
+there’s no excuse for the current chaos.
+
+Build your AGI however you want.  
+I’m stepping off here.
+
+---
+
+# For Everyone Who Cloned the Repo
+
+Please leave a star.  
 
  ### **NDA & Contact**
  📧 csow508@naver.com  
  📧 guswp0835@gmail.com  
- 🔗 Twitter (X): @affectOS
