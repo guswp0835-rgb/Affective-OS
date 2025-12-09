@@ -1,6 +1,8 @@
 # Affective OS  
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17802501.svg)](https://doi.org/10.5281/zenodo.17802501)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17840414.svg)](https://doi.org/10.5281/zenodo.17840414)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17861897.svg)](https://doi.org/10.5281/zenodo.17861897)
+
 
 ---
 
